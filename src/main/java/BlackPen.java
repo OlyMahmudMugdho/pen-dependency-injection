@@ -6,3 +6,4 @@ public class BlackPen implements PenInterface {
         System.out.println("Writing with black pen");
     }
 }
+// pen
